@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivkr0207
 - 👀 I’m interested in IOT & ML
 - 🌱 I’m currently learning Python & C++
-- 💞️ I’m looking to collaborate on ML project
+- 💞️ I’m looking to collaborate on IOT & ML projects
 - 📫 How to reach me vivekkumar200213@gmail.com
 
 <!---
